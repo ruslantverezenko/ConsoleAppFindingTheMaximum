@@ -1,0 +1,7 @@
+C:\Users\Q\source\repos\ConsoleAppFindingTheMaximum\ConsoleAppFindingTheMaximum\bin\Debug\ConsoleAppFindingTheMaximum.exe.config
+C:\Users\Q\source\repos\ConsoleAppFindingTheMaximum\ConsoleAppFindingTheMaximum\bin\Debug\ConsoleAppFindingTheMaximum.exe
+C:\Users\Q\source\repos\ConsoleAppFindingTheMaximum\ConsoleAppFindingTheMaximum\bin\Debug\ConsoleAppFindingTheMaximum.pdb
+C:\Users\Q\source\repos\ConsoleAppFindingTheMaximum\ConsoleAppFindingTheMaximum\obj\Debug\ConsoleAppFindingTheMaximum.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\ConsoleAppFindingTheMaximum\ConsoleAppFindingTheMaximum\obj\Debug\ConsoleAppFindingTheMaximum.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\ConsoleAppFindingTheMaximum\ConsoleAppFindingTheMaximum\obj\Debug\ConsoleAppFindingTheMaximum.exe
+C:\Users\Q\source\repos\ConsoleAppFindingTheMaximum\ConsoleAppFindingTheMaximum\obj\Debug\ConsoleAppFindingTheMaximum.pdb
